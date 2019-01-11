@@ -4,7 +4,7 @@ This application provides a list of catalogs along with different items for each
 ## Project Information
 - it is a required project for Udacity's FullStack Nanodegree Program.
 - it was developed by Osama Aloqaily, https://github.com/o-aloqaily
-- IP Address: 18.197.130.3
+- IP Address: 18.197.130.3, SSH Port: 2200
 - You can also visit the website through 18.197.130.3.xip.io.
 
 ### Software
