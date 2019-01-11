@@ -39,3 +39,10 @@ This project was developed using the following:
 - `client_secret.json` file was updated accordingly utilizing xip.io service to allow for Google OAuth authentication.
 - A .wsgi file was created for the project on /var/www/html/ directory.
 
+
+### References
+- [SQLAchemy configuration with PostgreSQL.](https://docs.sqlalchemy.org/en/latest/dialects/postgresql.html)
+- [Configuring uncomplicated firewall](https://help.ubuntu.com/community/UFW)
+- [How to disable root login?](https://serverfault.com/questions/178080/how-do-i-disable-root-login-in-ubuntu)
+- [How to reload/restart ssh](https://unix.stackexchange.com/questions/127886/how-can-i-restart-the-ssh-daemon-on-ubuntu)
+- [Flask configuration](http://flask.pocoo.org/snippets/2/)
